@@ -5,6 +5,7 @@ This is to keep track og my try hack me progress
 ⏳ = In progress.
 🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
 
+
 # Level 1 - Intro
 - [👍] OpenVPN https://tryhackme.com/room/openvpn
 - [ ] Welcome https://tryhackme.com/jr/welcome
