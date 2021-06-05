@@ -9,8 +9,8 @@
 - [👍] OpenVPN https://tryhackme.com/room/openvpn
 - [👍] Welcome https://tryhackme.com/jr/welcome
 - [👍] Intro to Researching https://tryhackme.com/room/introtoresearch
-- [⏳] The Hacker Methodology https://tryhackme.com/room/hackermethodology
-- [ ] Learn Linux https://tryhackme.com/module/linux-fundamentals
+- [👍] The Hacker Methodology https://tryhackme.com/room/hackermethodology
+- [⏳] Learn Linux https://tryhackme.com/module/linux-fundamentals
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
