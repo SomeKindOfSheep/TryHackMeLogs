@@ -11,7 +11,7 @@
 - [👍] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [👍] The Hacker Methodology https://tryhackme.com/room/hackermethodology
 - [👍] Learn Linux https://tryhackme.com/module/linux-fundamentals
-- [⏳] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+- [👍] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
 
@@ -20,7 +20,7 @@
 - [ ] Shodan.io https://tryhackme.com/room/shodan
 
 # Level 2 - Tooling
-- [ ] Tmux https://tryhackme.com/room/rptmux
+- [⏳] Tmux https://tryhackme.com/room/rptmux
 - [ ] Nmap https://tryhackme.com/room/furthernmap
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
