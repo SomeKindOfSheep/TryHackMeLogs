@@ -15,8 +15,8 @@
 
 **Introductory CTFs to get your feet wet**
 
-- [⏳] Google Dorking https://tryhackme.com/room/googledorking
-- [🔴] OHsint https://tryhackme.com/room/ohsint
+- [👍] Google Dorking https://tryhackme.com/room/googledorking
+- [⏳] OHsint https://tryhackme.com/room/ohsint
 - [ ] Shodan.io https://tryhackme.com/room/shodan
 
 # Level 2 - Tooling
