@@ -70,7 +70,7 @@
 - [ ] Dumping Router Firmware https://tryhackme.com/room/rfirmware
 
 # Level 6 - Networking
-- [ ] Introduction to Networking https://tryhackme.com/room/introtonetworking
+- [⏳] Introduction to Networking https://tryhackme.com/room/introtonetworking
 - [ ] Smag Grotto https://tryhackme.com/room/smaggrotto
 - [ ] Overpass 2 https://tryhackme.com/room/overpass2hacked
 
