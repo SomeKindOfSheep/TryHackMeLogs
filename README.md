@@ -102,3 +102,9 @@
 - [ ] Blue Print https://tryhackme.com/room/blueprint
 - [ ] Anthem https://tryhackme.com/room/anthem
 - [ ] Relevant https://tryhackme.com/room/relevant
+
+Training rooms that I personally did outside of this scope:
+
+- https://tryhackme.com/room/beginnerpathintro
+- https://tryhackme.com/room/whatisnetworking
+- https://tryhackme.com/room/introtolan
