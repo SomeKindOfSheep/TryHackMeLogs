@@ -108,3 +108,7 @@ Training rooms that I personally did outside of this scope:
 - https://tryhackme.com/room/beginnerpathintro
 - https://tryhackme.com/room/whatisnetworking
 - https://tryhackme.com/room/introtolan
+- https://tryhackme.com/room/osimodelzi
+- https://tryhackme.com/room/packetsframes
+- https://tryhackme.com/room/extendingyournetwork
+- https://tryhackme.com/room/dnsindetail
