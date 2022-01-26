@@ -4,6 +4,8 @@
 ⏳ = In progress.
 🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
 
+Note: I stopped tracking this a little bit, due to work. I've been focussing on crypto CTF's and solidity code.
+
 
 # Level 1 - Intro
 - [👍] OpenVPN https://tryhackme.com/room/openvpn
